@@ -1,0 +1,14 @@
+:playMusic:terror
+:showBottomImage:lbf/dialogue/spelunkers/1
+:eve:I totally won that time!
+:showBottomImage:lbf/dialogue/spelunkers/1
+:pinky:I mean... We're still alive
+:showBottomImage:lbf/dialogue/spelunkers/3
+:eve:Uh huh... not for long.
+:showBottomImage:lbf/dialogue/spelunkers/4
+:pinky:Hey why is it getting darker in here?
+:showBottomImage:lbf/dialogue/spelunkers/5
+:eve:Oh you silly little slime...
+:eve:This is a cave, our natural habitat.
+:showBottomImage:lbf/dialogue/spelunkers/6
+:eve:Hope you can keep up.

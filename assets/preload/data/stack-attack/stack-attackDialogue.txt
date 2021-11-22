@@ -1,0 +1,29 @@
+:playMusic:totem
+:showBottomImage:lbf/dialogue/stack-attack/1
+:rocky:Hmph...
+:showBottomImage:lbf/dialogue/stack-attack/2
+:pinky:HA! You suck old man!
+:rocky:DON'T CALL ME OLD MAN
+:pinky:Hey Clucksworth, let's get out of here.
+:hotchick:Agreed...
+:rocky:Hey wait a second!
+:rocky:I WANT A REMATCH!!!
+:pinky:....
+:pinky:Wellllll, I guess I could sing again.
+:hotchick:Are you serious?
+:pinky:Guess you haven't learned your lesson, you're on... again!
+:hideBox:
+:showBottomImage:lbf/dialogue/stack-attack/3
+:playSound:boom
+:buffer:
+:playSound:boom
+:buffer:
+:playSound:boom
+:buffer:
+:playSound:boom
+:buffer:
+:playSound:boom
+:buffer:
+:playSound:boom
+:buffer:
+:stopSound:

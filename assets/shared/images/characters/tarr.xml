@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="tarr.png"><SubTexture name="tarr tarr idle0000" x="0" y="0" width="418" height="539" frameX="0" frameY="0" frameWidth="418" frameHeight="539" />
+<SubTexture name="tarr tarr idle0001" x="418" y="0" width="418" height="539" frameX="0" frameY="0" frameWidth="418" frameHeight="539" />
+<SubTexture name="tarr tarr idle0002" x="836" y="0" width="418" height="539" frameX="0" frameY="0" frameWidth="418" frameHeight="539" />
+<SubTexture name="tarr tarr idle0003" x="1254" y="0" width="418" height="539" frameX="0" frameY="0" frameWidth="418" frameHeight="539" />
+<SubTexture name="tarr tarr idle0004" x="0" y="539" width="418" height="539" frameX="0" frameY="0" frameWidth="418" frameHeight="539" />
+<SubTexture name="tarr tarr idle0005" x="418" y="539" width="418" height="539" frameX="0" frameY="0" frameWidth="418" frameHeight="539" />
+<SubTexture name="tarr tarr up0000" x="836" y="539" width="418" height="539" frameX="0" frameY="0" frameWidth="418" frameHeight="539" />
+<SubTexture name="tarr tarr up0001" x="1254" y="539" width="418" height="539" frameX="0" frameY="0" frameWidth="418" frameHeight="539" />
+<SubTexture name="tarr tarr up0002" x="0" y="1078" width="418" height="539" frameX="0" frameY="0" frameWidth="418" frameHeight="539" />
+<SubTexture name="tarr tarr up0003" x="418" y="1078" width="418" height="539" frameX="0" frameY="0" frameWidth="418" frameHeight="539" />
+<SubTexture name="tarr tarr down0000" x="836" y="1078" width="418" height="539" frameX="0" frameY="0" frameWidth="418" frameHeight="539" />
+<SubTexture name="tarr tarr down0001" x="1254" y="1078" width="418" height="539" frameX="0" frameY="0" frameWidth="418" frameHeight="539" />
+<SubTexture name="tarr tarr down0002" x="0" y="1617" width="418" height="539" frameX="0" frameY="0" frameWidth="418" frameHeight="539" />
+<SubTexture name="tarr tarr down0003" x="418" y="1617" width="418" height="539" frameX="0" frameY="0" frameWidth="418" frameHeight="539" />
+<SubTexture name="tarr tarr left0000" x="836" y="1617" width="418" height="539" frameX="0" frameY="0" frameWidth="418" frameHeight="539" />
+<SubTexture name="tarr tarr left0001" x="1254" y="1617" width="418" height="539" frameX="0" frameY="0" frameWidth="418" frameHeight="539" />
+<SubTexture name="tarr tarr left0002" x="0" y="2156" width="418" height="539" frameX="0" frameY="0" frameWidth="418" frameHeight="539" />
+<SubTexture name="tarr tarr left0003" x="418" y="2156" width="418" height="539" frameX="0" frameY="0" frameWidth="418" frameHeight="539" />
+<SubTexture name="tarr tarr right0000" x="836" y="2156" width="418" height="539" frameX="0" frameY="0" frameWidth="418" frameHeight="539" />
+<SubTexture name="tarr tarr right0001" x="1254" y="2156" width="418" height="539" frameX="0" frameY="0" frameWidth="418" frameHeight="539" />
+<SubTexture name="tarr tarr right0002" x="0" y="2695" width="418" height="539" frameX="0" frameY="0" frameWidth="418" frameHeight="539" />
+<SubTexture name="tarr tarr right0003" x="418" y="2695" width="418" height="539" frameX="0" frameY="0" frameWidth="418" frameHeight="539" />
+</TextureAtlas>

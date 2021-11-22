@@ -1,0 +1,25 @@
+:playMusic:terror
+:showBottomImage:lbf/dialogue/cave-rave/1
+:eve:Well well well, a pink slime and their hen friend.
+:showBottomImage:lbf/dialogue/cave-rave/2
+:eve:You lost little guy?
+:pinky:Um... no.
+:showBottomImage:lbf/dialogue/cave-rave/3
+:eve:Hmm, sad, well why don't you run along and let me take care of your hen friend?
+:hotchick:...
+:pinky:Oh hell nah!
+:showBottomImage:lbf/dialogue/cave-rave/4
+:eve:...
+:pinky:...
+:eve:I mean
+:showBottomImage:lbf/dialogue/cave-rave/5
+:eve:I could just kill you...
+:pinky:NO NO WAIT!!!
+:showBottomImage:lbf/dialogue/cave-rave/2
+:pinky:Have you ever sang before?
+:eve:What the hell are you talking about?
+:pinky:Wanna do a singing battle for her?
+:eve:...
+:showBottomImage:lbf/dialogue/cave-rave/6
+:playSound:boom
+:eve:aight whatever

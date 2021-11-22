@@ -1,0 +1,7 @@
+Tutorial:hotchick:RED:0
+Towering Up:rocky:CYAN:1
+Stack Attack:rocky:CYAN:1
+Rock Hard:rocky:CYAN:1
+Cave Rave:eve:MAGENTA:2
+Spelunkers:eve:MAGENTA:2
+Starrvation:monster:PURPLE:3

@@ -1,0 +1,25 @@
+{
+	"storyName": "Tutorial",
+	"hideFreeplay": false,
+	"weekBackground": null,
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Tutorial",
+			"hotchick",
+			[
+				255,
+				0,
+				117
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "tutorial"
+}

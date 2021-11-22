@@ -1,0 +1,28 @@
+:playMusic:limestone
+:showBottomImage:lbf/dialogue/towering-up/1
+:hotchick:Hey! That was great for you not singing for a while.
+:pinky:Huh, I guess you're right!
+:hotchick:I told you.
+:pinky:Shhhhhhhhhhhh
+:showBottomImage:lbf/dialogue/towering-up/2
+:???:HEY! WHAT'S ALL THAT NOISE ABOUT?!
+:showBottomImage:lbf/dialogue/towering-up/3
+:hotchick:?
+:showBottomImage:lbf/dialogue/towering-up/4
+:rocky:...
+:pinky:Are we... bothering you?
+:showBottomImage:lbf/dialogue/towering-up/5
+:rocky:OF COURSE YOU ARE!! MAKING ALL THAT RACKET!!
+:rocky:Wait wait wait, is that a Hen Hen?
+:hotchick:Uh... what?
+:showBottomImage:lbf/dialogue/towering-up/6
+:rocky:Tell ya what little pinky slime, since you seem to have a knack for singing...
+:pinky:I indeed do n-
+:rocky:Let's have a singing battle!
+:rocky:If you lose, I get the chick.
+:pinky:Uh... no.
+:rocky:Then I hope you're okay with oh I dunno...
+:rocky:Being thrown into the Slime Sea?
+:pinky:...Well crap
+:hotchick:...
+:pinky:I guess you're on then!

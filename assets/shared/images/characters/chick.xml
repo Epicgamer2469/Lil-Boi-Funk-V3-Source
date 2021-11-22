@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="chick.png"><SubTexture name="Hotchick Dancing Beat0000" x="0" y="0" width="554" height="404" frameX="0" frameY="0" frameWidth="554" frameHeight="404" />
+<SubTexture name="Hotchick Dancing Beat0001" x="554" y="0" width="554" height="404" frameX="0" frameY="0" frameWidth="554" frameHeight="404" />
+<SubTexture name="Hotchick Dancing Beat0002" x="1108" y="0" width="554" height="404" frameX="0" frameY="0" frameWidth="554" frameHeight="404" />
+<SubTexture name="Hotchick Dancing Beat0003" x="1662" y="0" width="554" height="404" frameX="0" frameY="0" frameWidth="554" frameHeight="404" />
+<SubTexture name="Hotchick Dancing Beat0004" x="0" y="404" width="554" height="404" frameX="0" frameY="0" frameWidth="554" frameHeight="404" />
+<SubTexture name="Hotchick Dancing Beat0005" x="554" y="404" width="554" height="404" frameX="0" frameY="0" frameWidth="554" frameHeight="404" />
+<SubTexture name="Hotchick Dancing Beat0006" x="1108" y="404" width="554" height="404" frameX="0" frameY="0" frameWidth="554" frameHeight="404" />
+<SubTexture name="Hotchick Dancing Beat0007" x="1662" y="404" width="554" height="404" frameX="0" frameY="0" frameWidth="554" frameHeight="404" />
+<SubTexture name="Hotchick Dancing Beat0008" x="0" y="808" width="554" height="404" frameX="0" frameY="0" frameWidth="554" frameHeight="404" />
+<SubTexture name="Hotchick Up Note0000" x="554" y="808" width="554" height="404" frameX="0" frameY="0" frameWidth="554" frameHeight="404" />
+<SubTexture name="Hotchick Up Note0001" x="1108" y="808" width="554" height="404" frameX="0" frameY="0" frameWidth="554" frameHeight="404" />
+<SubTexture name="Hotchick Up Note0002" x="1662" y="808" width="554" height="404" frameX="0" frameY="0" frameWidth="554" frameHeight="404" />
+<SubTexture name="Hotchick Up Note0003" x="0" y="1212" width="554" height="404" frameX="0" frameY="0" frameWidth="554" frameHeight="404" />
+<SubTexture name="Hotchick Up Note0004" x="554" y="1212" width="554" height="404" frameX="0" frameY="0" frameWidth="554" frameHeight="404" />
+<SubTexture name="Hotchick Up Note0005" x="1108" y="1212" width="554" height="404" frameX="0" frameY="0" frameWidth="554" frameHeight="404" />
+<SubTexture name="Hotchick Right Note0000" x="1662" y="1212" width="554" height="404" frameX="0" frameY="0" frameWidth="554" frameHeight="404" />
+<SubTexture name="Hotchick Right Note0001" x="0" y="1616" width="554" height="404" frameX="0" frameY="0" frameWidth="554" frameHeight="404" />
+<SubTexture name="Hotchick Right Note0002" x="554" y="1616" width="554" height="404" frameX="0" frameY="0" frameWidth="554" frameHeight="404" />
+<SubTexture name="Hotchick Right Note0003" x="1108" y="1616" width="554" height="404" frameX="0" frameY="0" frameWidth="554" frameHeight="404" />
+<SubTexture name="Hotchick Right Note0004" x="1662" y="1616" width="554" height="404" frameX="0" frameY="0" frameWidth="554" frameHeight="404" />
+<SubTexture name="Hotchick Right Note0005" x="0" y="2020" width="554" height="404" frameX="0" frameY="0" frameWidth="554" frameHeight="404" />
+<SubTexture name="Hotchick Left Note0000" x="554" y="2020" width="554" height="404" frameX="0" frameY="0" frameWidth="554" frameHeight="404" />
+<SubTexture name="Hotchick Left Note0001" x="1108" y="2020" width="554" height="404" frameX="0" frameY="0" frameWidth="554" frameHeight="404" />
+<SubTexture name="Hotchick Left Note0002" x="1662" y="2020" width="554" height="404" frameX="0" frameY="0" frameWidth="554" frameHeight="404" />
+<SubTexture name="Hotchick Left Note0003" x="0" y="2424" width="554" height="404" frameX="0" frameY="0" frameWidth="554" frameHeight="404" />
+<SubTexture name="Hotchick Left Note0004" x="554" y="2424" width="554" height="404" frameX="0" frameY="0" frameWidth="554" frameHeight="404" />
+<SubTexture name="Hotchick Left Note0005" x="1108" y="2424" width="554" height="404" frameX="0" frameY="0" frameWidth="554" frameHeight="404" />
+<SubTexture name="Hotchick Down Note0000" x="1662" y="2424" width="554" height="404" frameX="0" frameY="0" frameWidth="554" frameHeight="404" />
+<SubTexture name="Hotchick Down Note0001" x="0" y="2828" width="554" height="404" frameX="0" frameY="0" frameWidth="554" frameHeight="404" />
+<SubTexture name="Hotchick Down Note0002" x="554" y="2828" width="554" height="404" frameX="0" frameY="0" frameWidth="554" frameHeight="404" />
+<SubTexture name="Hotchick Down Note0003" x="1108" y="2828" width="554" height="404" frameX="0" frameY="0" frameWidth="554" frameHeight="404" />
+<SubTexture name="Hotchick Down Note0004" x="1662" y="2828" width="554" height="404" frameX="0" frameY="0" frameWidth="554" frameHeight="404" />
+<SubTexture name="Hotchick Down Note0005" x="0" y="3232" width="554" height="404" frameX="0" frameY="0" frameWidth="554" frameHeight="404" />
+<SubTexture name="Hotchick Cheer0000" x="554" y="3232" width="554" height="404" frameX="0" frameY="0" frameWidth="554" frameHeight="404" />
+<SubTexture name="Hotchick Cheer0001" x="1108" y="3232" width="554" height="404" frameX="0" frameY="0" frameWidth="554" frameHeight="404" />
+<SubTexture name="Hotchick Cheer0002" x="1662" y="3232" width="554" height="404" frameX="0" frameY="0" frameWidth="554" frameHeight="404" />
+<SubTexture name="Hotchick Cheer0003" x="0" y="3636" width="554" height="404" frameX="0" frameY="0" frameWidth="554" frameHeight="404" />
+<SubTexture name="Hotchick Cheer0004" x="554" y="3636" width="554" height="404" frameX="0" frameY="0" frameWidth="554" frameHeight="404" />
+<SubTexture name="Hotchick Cheer0005" x="1108" y="3636" width="554" height="404" frameX="0" frameY="0" frameWidth="554" frameHeight="404" />
+<SubTexture name="Hotchick Cheer0006" x="1662" y="3636" width="554" height="404" frameX="0" frameY="0" frameWidth="554" frameHeight="404" />
+<SubTexture name="Hotchick Cheer0007" x="0" y="4040" width="554" height="404" frameX="0" frameY="0" frameWidth="554" frameHeight="404" />
+<SubTexture name="Hotchick Cheer0008" x="554" y="4040" width="554" height="404" frameX="0" frameY="0" frameWidth="554" frameHeight="404" />
+</TextureAtlas>

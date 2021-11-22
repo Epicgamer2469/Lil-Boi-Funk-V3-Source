@@ -1,0 +1,18 @@
+:playMusic:musicLesson
+:showBottomImage:lbf/dialogue/tutorial/1
+:hideBox:
+:buffer:
+:showBox:
+:showBottomImage:lbf/dialogue/tutorial/2
+:pinky:*huff puff* I’M HERE!!!
+:hotchick:Oh! Hi Pinky!
+:showBottomImage:lbf/dialogue/tutorial/3
+:pinky:So, what did you need me for?
+:hotchick:Well, I was just thinking we could hang out, maybe do some karaoke!
+:showBottomImage:lbf/dialogue/tutorial/4
+:pinky:Oh c'mon, you know I have a terrible voice…
+:hotchick:Don’t worry! I’ll help you warm up!
+:showBottomImage:lbf/dialogue/tutorial/3
+:pinky:Hmm… are you sure?
+:showBottomImage:lbf/dialogue/tutorial/5
+:hotchick:Of course! Just repeat after me…

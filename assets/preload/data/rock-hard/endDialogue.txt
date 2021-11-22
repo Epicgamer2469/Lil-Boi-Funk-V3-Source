@@ -1,0 +1,19 @@
+:playMusic:limestone
+:showBottomImage:lbf/dialogue/rock-end/1
+:rocky:OK THATS IT! I'M TIRED OF YOU!!
+:pinky:AHH!! HC let's go!!!
+:hotchick:Got it!!
+:showBottomImage:lbf/dialogue/rock-end/2
+:pinky:Quick, in here!!
+:showBottomImage:lbf/dialogue/rock-end/3
+:hideBox:
+:buffer:
+:showBox:
+:showBottomImage:lbf/dialogue/rock-end/4
+:pinky:Phew, that was close...
+:hotchick:Never again...
+:pinky:Agreed.
+:showBottomImage:lbf/dialogue/rock-end/5
+:pinky:...
+:hotchick:...
+:pinky:Crap.

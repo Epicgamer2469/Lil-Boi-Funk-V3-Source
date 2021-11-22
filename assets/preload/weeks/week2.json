@@ -1,0 +1,43 @@
+{
+	"storyName": "Eve and The Gang",
+	"hideFreeplay": false,
+	"weekBackground": null,
+	"weekBefore": "week1",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Cave Rave",
+			"eve",
+			[
+				255,
+				0,
+				235
+			]
+		],
+		[
+			"Spelunkers",
+			"eve",
+			[
+				255,
+				0,
+				235
+			]
+		],
+		[
+			"Starrvation",
+			"monster",
+			[
+				135,
+				0,
+				215
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "week2"
+}

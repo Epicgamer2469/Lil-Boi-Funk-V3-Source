@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 10,
+			"name": "tarr tarr idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "tarr tarr left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "tarr tarr right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "tarr tarr down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "tarr tarr up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/tarr",
+	"position": [
+		200,
+		135
+	],
+	"healthicon": "monster",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		20
+	],
+	"camera_position": [
+		-220,
+		160
+	],
+	"sing_duration": 4,
+	"scale": 1.4
+}

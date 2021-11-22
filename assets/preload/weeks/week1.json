@@ -1,0 +1,43 @@
+{
+	"storyName": "Totem Tyrany",
+	"hideFreeplay": false,
+	"weekBackground": null,
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Towering Up",
+			"rocky",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Stack Attack",
+			"rocky",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Rock Hard",
+			"rocky",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "week1"
+}

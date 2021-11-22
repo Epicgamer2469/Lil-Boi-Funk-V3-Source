@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="rocky_nerv.png">
+<SubTexture name="Rocky_nervous Idle0000" x="0" y="0" width="440" height="728" frameX="0" frameY="0" frameWidth="440" frameHeight="728" />
+<SubTexture name="Rocky_nervous Idle0001" x="440" y="0" width="440" height="728" frameX="0" frameY="0" frameWidth="440" frameHeight="728" />
+<SubTexture name="Rocky_nervous Idle0002" x="880" y="0" width="440" height="728" frameX="0" frameY="0" frameWidth="440" frameHeight="728" />
+<SubTexture name="Rocky_nervous Idle0003" x="1320" y="0" width="440" height="728" frameX="0" frameY="0" frameWidth="440" frameHeight="728" />
+<SubTexture name="Rocky_nervous Idle0004" x="0" y="728" width="440" height="728" frameX="0" frameY="0" frameWidth="440" frameHeight="728" />
+<SubTexture name="Rocky_nervous Idle0005" x="440" y="728" width="440" height="728" frameX="0" frameY="0" frameWidth="440" frameHeight="728" />
+<SubTexture name="Rocky_nervous Idle0006" x="880" y="728" width="440" height="728" frameX="0" frameY="0" frameWidth="440" frameHeight="728" />
+<SubTexture name="Rocky_nervous Idle0007" x="1320" y="728" width="440" height="728" frameX="0" frameY="0" frameWidth="440" frameHeight="728" />
+<SubTexture name="Rocky_nervous Idle0008" x="0" y="1456" width="440" height="728" frameX="0" frameY="0" frameWidth="440" frameHeight="728" />
+<SubTexture name="Rocky_nervous Idle0009" x="440" y="1456" width="440" height="728" frameX="0" frameY="0" frameWidth="440" frameHeight="728" />
+<SubTexture name="Rocky_nervous Idle0010" x="880" y="1456" width="440" height="728" frameX="0" frameY="0" frameWidth="440" frameHeight="728" />
+<SubTexture name="Rocky_nervous Idle0011" x="1320" y="1456" width="440" height="728" frameX="0" frameY="0" frameWidth="440" frameHeight="728" />
+<SubTexture name="Rocky_nervous right0000" x="0" y="2184" width="440" height="728" frameX="0" frameY="0" frameWidth="440" frameHeight="728" />
+<SubTexture name="Rocky_nervous right0001" x="440" y="2184" width="440" height="728" frameX="0" frameY="0" frameWidth="440" frameHeight="728" />
+<SubTexture name="Rocky_nervous right0002" x="880" y="2184" width="440" height="728" frameX="0" frameY="0" frameWidth="440" frameHeight="728" />
+<SubTexture name="Rocky_nervous right0003" x="1320" y="2184" width="440" height="728" frameX="0" frameY="0" frameWidth="440" frameHeight="728" />
+<SubTexture name="Rocky_nervous right0004" x="0" y="2912" width="440" height="728" frameX="0" frameY="0" frameWidth="440" frameHeight="728" />
+<SubTexture name="Rocky_nervous right0005" x="440" y="2912" width="440" height="728" frameX="0" frameY="0" frameWidth="440" frameHeight="728" />
+<SubTexture name="Rocky_nervous down0000" x="880" y="2912" width="440" height="728" frameX="0" frameY="0" frameWidth="440" frameHeight="728" />
+<SubTexture name="Rocky_nervous down0001" x="1320" y="2912" width="440" height="728" frameX="0" frameY="0" frameWidth="440" frameHeight="728" />
+<SubTexture name="Rocky_nervous down0002" x="0" y="3640" width="440" height="728" frameX="0" frameY="0" frameWidth="440" frameHeight="728" />
+<SubTexture name="Rocky_nervous down0003" x="440" y="3640" width="440" height="728" frameX="0" frameY="0" frameWidth="440" frameHeight="728" />
+<SubTexture name="Rocky_nervous down0004" x="880" y="3640" width="440" height="728" frameX="0" frameY="0" frameWidth="440" frameHeight="728" />
+<SubTexture name="Rocky_nervous down0005" x="1320" y="3640" width="440" height="728" frameX="0" frameY="0" frameWidth="440" frameHeight="728" />
+<SubTexture name="Rocky_nervous down0006" x="0" y="4368" width="440" height="728" frameX="0" frameY="0" frameWidth="440" frameHeight="728" />
+<SubTexture name="Rocky_nervous left0000" x="440" y="4368" width="440" height="728" frameX="0" frameY="0" frameWidth="440" frameHeight="728" />
+<SubTexture name="Rocky_nervous left0001" x="880" y="4368" width="440" height="728" frameX="0" frameY="0" frameWidth="440" frameHeight="728" />
+<SubTexture name="Rocky_nervous left0002" x="1320" y="4368" width="440" height="728" frameX="0" frameY="0" frameWidth="440" frameHeight="728" />
+<SubTexture name="Rocky_nervous left0003" x="0" y="5096" width="440" height="728" frameX="0" frameY="0" frameWidth="440" frameHeight="728" />
+<SubTexture name="Rocky_nervous left0004" x="440" y="5096" width="440" height="728" frameX="0" frameY="0" frameWidth="440" frameHeight="728" />
+<SubTexture name="Rocky_nervous left0005" x="880" y="5096" width="440" height="728" frameX="0" frameY="0" frameWidth="440" frameHeight="728" />
+<SubTexture name="Rocky_nervous left0006" x="1320" y="5096" width="440" height="728" frameX="0" frameY="0" frameWidth="440" frameHeight="728" />
+<SubTexture name="Rocky_nervous up0000" x="0" y="5824" width="440" height="728" frameX="0" frameY="0" frameWidth="440" frameHeight="728" />
+<SubTexture name="Rocky_nervous up0001" x="440" y="5824" width="440" height="728" frameX="0" frameY="0" frameWidth="440" frameHeight="728" />
+<SubTexture name="Rocky_nervous up0002" x="880" y="5824" width="440" height="728" frameX="0" frameY="0" frameWidth="440" frameHeight="728" />
+<SubTexture name="Rocky_nervous up0003" x="1320" y="5824" width="440" height="728" frameX="0" frameY="0" frameWidth="440" frameHeight="728" />
+<SubTexture name="Rocky_nervous up0004" x="0" y="6552" width="440" height="728" frameX="0" frameY="0" frameWidth="440" frameHeight="728" />
+<SubTexture name="Rocky_nervous up0005" x="440" y="6552" width="440" height="728" frameX="0" frameY="0" frameWidth="440" frameHeight="728" />
+<SubTexture name="Rocky_nervous up0006" x="880" y="6552" width="440" height="728" frameX="0" frameY="0" frameWidth="440" frameHeight="728" />
+</TextureAtlas>

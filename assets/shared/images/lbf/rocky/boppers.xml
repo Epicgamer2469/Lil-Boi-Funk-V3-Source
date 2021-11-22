@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="boppers.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bopping0000" x="0" y="0" width="1028" height="314"/>
+	<SubTexture name="bopping0001" x="0" y="315" width="1028" height="314"/>
+	<SubTexture name="bopping0002" x="0" y="630" width="1028" height="314"/>
+	<SubTexture name="bopping0003" x="0" y="945" width="1028" height="314"/>
+	<SubTexture name="bopping0004" x="0" y="945" width="1028" height="314"/>
+	<SubTexture name="bopping0005" x="0" y="1260" width="1028" height="314"/>
+	<SubTexture name="bopping0006" x="0" y="1575" width="1028" height="314"/>
+	<SubTexture name="bopping0007" x="0" y="1575" width="1028" height="314"/>
+	<SubTexture name="bopping0008" x="0" y="0" width="1028" height="314"/>
+	<SubTexture name="bopping0009" x="0" y="0" width="1028" height="314"/>
+	<SubTexture name="bopping0010" x="0" y="0" width="1028" height="314"/>
+	<SubTexture name="bopping0011" x="0" y="0" width="1028" height="314"/>
+	<SubTexture name="bopping0012" x="0" y="0" width="1028" height="314"/>
+</TextureAtlas>

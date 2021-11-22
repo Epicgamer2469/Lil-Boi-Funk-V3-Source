@@ -1,0 +1,24 @@
+:playMusic:terror
+:showBottomImage:lbf/dialogue/starrvation/1
+:eve:If you dont stop playing around we'll kill you!
+:showBottomImage:lbf/dialogue/starrvation/2
+:pinky:...
+:hotchick:Just leave us alone you stupid largo!!
+:eve:Psh, you're just a Hen, nothing you say even matters!
+:hotchick:...
+:eve:Like really, you should just shut up fore-
+:showBottomImage:lbf/dialogue/starrvation/3
+:hideBox:
+:playSound:boom
+:showBottomImage:lbf/dialogue/starrvation/4
+:buffer:
+:showBox:
+:eve:OH MY GOD
+:showBottomImage:lbf/dialogue/starrvation/6
+:hideBox:
+:buffer:
+:showBottomImage:lbf/dialogue/starrvation/7
+:buffer:
+:showBox:
+:showBottomImage:lbf/dialogue/starrvation/8
+:pinky:...Huh?
