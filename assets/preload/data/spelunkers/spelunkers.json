@@ -3439,9 +3439,6 @@
 				"bpm": 170
 			},
 			{
-<<<<<<< Updated upstream
-				"sectionNotes": [],
-=======
 				"sectionNotes": [
 					[
 						90352.9411764705,
@@ -3504,7 +3501,6 @@
 						441.176470588235
 					]
 				],
->>>>>>> Stashed changes
 				"typeOfSection": 0,
 				"lengthInSteps": 16,
 				"altAnim": false,
@@ -3513,9 +3509,6 @@
 				"bpm": 170
 			},
 			{
-<<<<<<< Updated upstream
-				"sectionNotes": [],
-=======
 				"sectionNotes": [
 					[
 						92117.6470588234,
@@ -3563,7 +3556,6 @@
 						0
 					]
 				],
->>>>>>> Stashed changes
 				"typeOfSection": 0,
 				"lengthInSteps": 16,
 				"altAnim": false,
@@ -3572,40 +3564,6 @@
 				"bpm": 170
 			},
 			{
-<<<<<<< Updated upstream
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"altAnim": false,
-				"mustHitSection": false,
-				"changeBPM": false,
-				"bpm": 170
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"altAnim": false,
-				"mustHitSection": false,
-				"changeBPM": false,
-				"bpm": 170
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 170
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"altAnim": false,
-				"mustHitSection": true,
-=======
 				"sectionNotes": [
 					[
 						93176.4705882352,
@@ -3672,41 +3630,10 @@
 				"lengthInSteps": 16,
 				"altAnim": false,
 				"mustHitSection": false,
->>>>>>> Stashed changes
 				"changeBPM": false,
 				"bpm": 170
 			},
 			{
-<<<<<<< Updated upstream
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 170
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 170
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"altAnim": false,
-				"mustHitSection": false,
-				"changeBPM": false,
-				"bpm": 170
-			},
-			{
-				"sectionNotes": [],
-=======
 				"sectionNotes": [
 					[
 						94588.2352941175,
@@ -3759,7 +3686,6 @@
 						264.705882352941
 					]
 				],
->>>>>>> Stashed changes
 				"typeOfSection": 0,
 				"lengthInSteps": 16,
 				"altAnim": false,
@@ -3768,22 +3694,6 @@
 				"bpm": 170
 			},
 			{
-<<<<<<< Updated upstream
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"altAnim": false,
-				"mustHitSection": false,
-				"changeBPM": false,
-				"bpm": 170
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"altAnim": false,
-				"mustHitSection": false,
-=======
 				"sectionNotes": [
 					[
 						95999.9999999999,
@@ -3850,23 +3760,10 @@
 				"lengthInSteps": 16,
 				"altAnim": false,
 				"mustHitSection": true,
->>>>>>> Stashed changes
 				"changeBPM": false,
 				"bpm": 170
 			},
 			{
-<<<<<<< Updated upstream
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 170
-			},
-			{
-				"sectionNotes": [],
-=======
 				"sectionNotes": [
 					[
 						97764.7058823528,
@@ -3914,7 +3811,6 @@
 						0
 					]
 				],
->>>>>>> Stashed changes
 				"typeOfSection": 0,
 				"lengthInSteps": 16,
 				"altAnim": false,
@@ -3923,18 +3819,6 @@
 				"bpm": 170
 			},
 			{
-<<<<<<< Updated upstream
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 170
-			},
-			{
-				"sectionNotes": [],
-=======
 				"sectionNotes": [
 					[
 						98823.5294117646,
@@ -3997,7 +3881,6 @@
 						0
 					]
 				],
->>>>>>> Stashed changes
 				"typeOfSection": 0,
 				"lengthInSteps": 16,
 				"altAnim": false,
@@ -4006,9 +3889,6 @@
 				"bpm": 170
 			},
 			{
-<<<<<<< Updated upstream
-				"sectionNotes": [],
-=======
 				"sectionNotes": [
 					[
 						100235.294117647,
@@ -6136,22 +6016,12 @@
 						0
 					]
 				],
->>>>>>> Stashed changes
 				"typeOfSection": 0,
 				"lengthInSteps": 16,
 				"altAnim": false,
 				"mustHitSection": false,
 				"changeBPM": false,
 				"bpm": 170
-<<<<<<< Updated upstream
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"altAnim": false,
-				"mustHitSection": false,
-=======
 			},
 			{
 				"sectionNotes": [
@@ -6370,18 +6240,10 @@
 				"lengthInSteps": 16,
 				"altAnim": false,
 				"mustHitSection": true,
->>>>>>> Stashed changes
 				"changeBPM": false,
 				"bpm": 170
 			},
 			{
-<<<<<<< Updated upstream
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"altAnim": false,
-				"mustHitSection": false,
-=======
 				"sectionNotes": [
 					[
 						145411.764705882,
@@ -6463,23 +6325,10 @@
 				"lengthInSteps": 16,
 				"altAnim": false,
 				"mustHitSection": true,
->>>>>>> Stashed changes
 				"changeBPM": false,
 				"bpm": 170
 			},
 			{
-<<<<<<< Updated upstream
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"altAnim": false,
-				"mustHitSection": false,
-				"changeBPM": false,
-				"bpm": 170
-			},
-			{
-				"sectionNotes": [],
-=======
 				"sectionNotes": [
 					[
 						146823.529411764,
@@ -6487,111 +6336,8 @@
 						882.352941176471
 					]
 				],
->>>>>>> Stashed changes
 				"typeOfSection": 0,
 				"lengthInSteps": 16,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 170
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-<<<<<<< Updated upstream
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 170
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 170
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-=======
->>>>>>> Stashed changes
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 170
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-<<<<<<< Updated upstream
-				"altAnim": false,
-				"mustHitSection": false,
-				"changeBPM": false,
-				"bpm": 170
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"altAnim": false,
-				"mustHitSection": false,
-				"changeBPM": false,
-				"bpm": 170
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-=======
->>>>>>> Stashed changes
-				"altAnim": false,
-				"mustHitSection": false,
-				"changeBPM": false,
-				"bpm": 170
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-<<<<<<< Updated upstream
-				"altAnim": false,
-				"mustHitSection": false,
-				"changeBPM": false,
-				"bpm": 170
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 170
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"altAnim": false,
-				"mustHitSection": true,
-=======
-				"altAnim": false,
-				"mustHitSection": false,
->>>>>>> Stashed changes
-				"changeBPM": false,
-				"bpm": 170
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-<<<<<<< Updated upstream
 				"altAnim": false,
 				"mustHitSection": true,
 				"changeBPM": false,
@@ -6612,20 +6358,6 @@
 				"lengthInSteps": 16,
 				"altAnim": false,
 				"mustHitSection": false,
-=======
-				"altAnim": false,
-				"mustHitSection": true,
->>>>>>> Stashed changes
-				"changeBPM": false,
-				"bpm": 170
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-<<<<<<< Updated upstream
-				"altAnim": false,
-				"mustHitSection": false,
 				"changeBPM": false,
 				"bpm": 170
 			},
@@ -6643,11 +6375,7 @@
 				"typeOfSection": 0,
 				"lengthInSteps": 16,
 				"altAnim": false,
-				"mustHitSection": false,
-=======
-				"altAnim": false,
 				"mustHitSection": true,
->>>>>>> Stashed changes
 				"changeBPM": false,
 				"bpm": 170
 			},
@@ -6655,7 +6383,6 @@
 				"sectionNotes": [],
 				"typeOfSection": 0,
 				"lengthInSteps": 16,
-<<<<<<< Updated upstream
 				"altAnim": false,
 				"mustHitSection": true,
 				"changeBPM": false,
@@ -6674,18 +6401,6 @@
 				"sectionNotes": [],
 				"typeOfSection": 0,
 				"lengthInSteps": 16,
-=======
->>>>>>> Stashed changes
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 170
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-<<<<<<< Updated upstream
 				"altAnim": false,
 				"mustHitSection": true,
 				"changeBPM": false,
@@ -6704,59 +6419,6 @@
 				"sectionNotes": [],
 				"typeOfSection": 0,
 				"lengthInSteps": 16,
-=======
->>>>>>> Stashed changes
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 170
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-<<<<<<< Updated upstream
-				"altAnim": false,
-				"mustHitSection": false,
-				"changeBPM": false,
-				"bpm": 170
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"altAnim": false,
-				"mustHitSection": false,
-				"changeBPM": false,
-				"bpm": 170
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-=======
->>>>>>> Stashed changes
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 170
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-<<<<<<< Updated upstream
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 170
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-=======
->>>>>>> Stashed changes
 				"altAnim": false,
 				"mustHitSection": true,
 				"changeBPM": false,
@@ -6881,11 +6543,7 @@
 			}
 		],
 		"player2": "eve",
-<<<<<<< Updated upstream
-		"player3": "hotchick",
-=======
 		"player3": "hotchick_dark",
->>>>>>> Stashed changes
 		"song": "Spelunkers",
 		"stage": "grotto",
 		"needsVoices": true,

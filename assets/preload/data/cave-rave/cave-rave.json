@@ -4249,11 +4249,7 @@
 				"mustHitSection": true
 			}
 		],
-<<<<<<< Updated upstream
-		"player3": "hotchick",
-=======
 		"player3": "hotchick_dark",
->>>>>>> Stashed changes
 		"song": "Cave Rave",
 		"stage": "grotto",
 		"validScore": true,
